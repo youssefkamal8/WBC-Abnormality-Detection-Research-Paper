@@ -142,38 +142,6 @@ WBC-Abnormality-Detection-Research-Paper/
 
 ---
 
-# ▶️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/youssefkamal8/WBC-Abnormality-Detection-Research-Paper.git
-cd WBC-Abnormality-Detection-Research-Paper
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-# ▶️ Run the Project
-
-Launch the notebook:
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-WBC_Abnormality_Detection.ipynb
-```
-
----
 
 # 🔬 Research Contribution
 
